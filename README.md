@@ -21,7 +21,6 @@
 - 🧠 Passionate about **data-driven storytelling**
 - 📊 Turning raw data into meaningful insights
 - 🚀 Currently exploring: Machine Learning with real-world datasets
-- 🌍 Based in: [Your Country/City]
 - 🎯 Career goal: Help companies make better decisions through data
 
 ---
@@ -41,53 +40,4 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
 
----
 
-### 🧩 Featured Projects
-
-| 📁 Project | 📌 Description | 🔧 Tools |
-|-----------|----------------|-----------|
-| [Sales Insights Dashboard](https://github.com/yourusername/sales-dashboard) | Interactive dashboard analyzing retail KPIs | Excel, Power BI, SQL |
-| [Customer Segmentation](https://github.com/yourusername/customer-segmentation) | ML-based customer clustering | Python, Pandas, Scikit-Learn |
-| [ETL Pipeline Demo](https://github.com/yourusername/etl-pipeline) | Automated data extraction and reporting | Python, Airbyte, SQL |
-| [COVID Data Analysis](https://github.com/yourusername/covid-analysis) | Visualized global trends during the pandemic | Python, Pandas, Seaborn |
-
----
-
-### 🌱 Currently Exploring
-
-- 📈 Time series forecasting  
-- 🛠️ Advanced ETL automation tools (e.g., Airbyte, dbt)  
-- 🧠 Deepening ML with `scikit-learn`, `XGBoost`, `LightGBM`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_title=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox" />
-</p>
-
----
-
-### 🏅 Achievements
-
-- 🎖️ Built end-to-end sales dashboard used by [client/company]  
-- 🥇 Top performer in [Course/Bootcamp Name]  
-- 🧑‍🏫 Contributor to open-source analytics tools
-
----
-
-### 🤝 Let's Connect
-
-💬 Open to collaborations, data gigs, or just geeking out about statistics.  
-📬 Reach me at: [youremail@example.com](mailto:youremail@example.com)  
-🌐 Or visit: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-<p align="center">
-  🚀 Let’s turn data into decisions!
-</p>
