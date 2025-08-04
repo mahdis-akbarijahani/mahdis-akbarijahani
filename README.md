@@ -13,7 +13,7 @@
 
 ---
 - 📊 Hunting insights and clues in messy data
-- 🚀 Currently exploring: Applied machine learning and advanced data automation techniques for real-world problem solving.
+- 🚀 Currently exploring: data pipeline optimization & Machine learning
 ---
 
 <h3 align="center">🛠️ Technical Skills</h3>
