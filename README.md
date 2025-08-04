@@ -12,32 +12,28 @@
 </p>
 
 ---
-
-### 📌 About Me
-
-> “Without data, you're just another person with an opinion.”  
-> — *W. Edwards Deming*
-
-- 🧠 Passionate about **data-driven storytelling**
-- 📊 Turning raw data into meaningful insights
-- 🚀 Currently exploring: Machine Learning with real-world datasets
-- 🎯 Career goal: Help companies make better decisions through data
-
+- 📊 Hunting insights and clues in messy data
+- 🚀 Currently exploring: Applied machine learning and advanced data automation techniques for real-world problem solving.
 ---
 
-### 🛠️ Tools & Tech
+<h3 align="center">🛠️ Technical Skills</h3>
 
-> Tools that help me analyze, visualize, and automate insights:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-8B5CF6?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F59E0B?style=flat-square&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-06B6D4?style=flat-square&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-22C55E?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-65A30D?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-EC4899?style=flat-square&logo=airbyte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F97316?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
-![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
-![ETL](https://img.shields.io/badge/-ETL-black?style=flat-square&logo=airbyte)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
-![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
+
+
 
 
