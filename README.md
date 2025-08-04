@@ -14,8 +14,8 @@
 
 
 ---
-- 📊 Hunting insights and clues in messy data
-- 🚀 Currently exploring: data pipeline optimization & Machine learning
+ - 📊 Hunting insights and clues in messy data
+ - 🚀 Currently exploring: data pipeline optimization & Machine learning
 ---
 
 <h3 align="center">🛠️ Technical Skills</h3>
