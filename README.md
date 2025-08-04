@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahdis</h1>
 
 <p align="center">
-  💻📊 Data Analyst • 🤖 Machine Learning Enthusiast • 📚 Lifelong Learner
+  💻📊 Data Analyst | 🤖 Machine Learning Enthusiast | 📚 Lifelong Learner
 </p>
 
 <p align="center">
